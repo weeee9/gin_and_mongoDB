@@ -1,0 +1,5 @@
+{
+    "user": "<your_atlas_DB_access_username>",
+    "password": "<your_atlas_DB_access_password>",
+    "host": "<your_atlas_URI>"
+}
